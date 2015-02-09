@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-  int n[10], count =0;
-  float ave = 0, sum = 0, realave = 0;
+  int n[10], count =0, sum = 0;
+  float ave = 0, realave = 0;
  printf("Enter Data: ");
  for(int i=0;i<10;i++)
    {
